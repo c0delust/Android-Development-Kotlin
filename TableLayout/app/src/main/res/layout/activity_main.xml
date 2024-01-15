@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    tools:ignore="HardcodedText">
+
+    <TableRow
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="100sp"
+        android:background="#86C0D1">
+
+        <TextView
+            android:layout_width="150sp"
+            android:text="First Name"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:padding="10sp"
+   >
+        </TextView>
+
+        <TextView
+            android:layout_width="150sp"
+            android:text="Last Name"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:padding="10sp">
+        </TextView>
+
+        <TextView
+            android:text="Age"
+            android:layout_width="100sp"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:padding="10sp">
+        </TextView>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:background="#D0E1E6">
+
+        <TextView
+            android:text="Karl"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:padding="10sp">
+        </TextView>
+
+        <TextView
+            android:layout_height="match_parent"
+            android:padding="10sp"
+            android:text="Marks"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:text="35"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:padding="10sp">
+        </TextView>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:background="#D0E1E6">
+
+        <TextView
+            android:text="John"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:padding="10sp">
+        </TextView>
+
+        <TextView
+            android:layout_height="match_parent"
+            android:padding="10sp"
+            android:text="Brown"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:text="26"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:padding="10sp">
+        </TextView>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:background="#D0E1E6">
+
+        <TextView
+            android:text="Paul"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:padding="10sp">
+        </TextView>
+
+        <TextView
+            android:layout_height="match_parent"
+            android:padding="10sp"
+            android:text="Black"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:text="42"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:padding="10sp">
+        </TextView>
+
+    </TableRow>
+
+</TableLayout>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:ignore="HardcodedText"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="55sp"
+        android:layout_height="55sp"
+        android:layout_alignParentStart="true"
+        android:background="#E91E63"
+        android:gravity="center"
+        android:text="Top Left"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/t2"
+        android:layout_width="55sp"
+        android:layout_height="55sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:background="#FFC107"
+        android:gravity="center"
+        android:text="Top Center"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/t3"
+        android:layout_width="55sp"
+        android:layout_height="55sp"
+        android:layout_alignParentEnd="true"
+        android:background="#3F51B5"
+        android:gravity="center"
+        android:text="Top Right"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/t4"
+        android:layout_width="55sp"
+        android:layout_height="55sp"
+        android:layout_alignParentStart="true"
+        android:layout_centerInParent="true"
+        android:background="#FF5722"
+        android:gravity="center"
+        android:text="Center Left"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/t5"
+        android:layout_width="55sp"
+        android:layout_height="55sp"
+        android:layout_centerInParent="true"
+        android:background="#4CAF50"
+        android:gravity="center"
+        android:text="Center"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/t6"
+        android:layout_width="55sp"
+        android:layout_height="55sp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerInParent="true"
+        android:background="#00BCD4"
+        android:gravity="center"
+        android:text="Center Right"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/t7"
+        android:layout_above="@id/t5"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="10sp"
+        android:layout_width="55sp"
+        android:layout_height="55sp"
+        android:background="#4CAF50"
+        android:gravity="center"
+        android:text="Above Center"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/t8"
+        android:layout_below="@id/t5"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="10sp"
+        android:layout_width="55sp"
+        android:layout_height="55sp"
+        android:background="#4CAF50"
+        android:gravity="center"
+        android:text="Below Center"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/t9"
+        android:layout_toEndOf="@id/t5"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="10sp"
+        android:layout_width="55sp"
+        android:layout_height="55sp"
+        android:background="#673AB7"
+        android:gravity="center"
+        android:text="Right of Center"
+        android:textColor="@color/white"
+  />
+
+    <TextView
+        android:id="@+id/t10"
+        android:layout_width="55sp"
+        android:layout_height="55sp"
+        android:layout_centerInParent="true"
+        android:layout_marginEnd="10sp"
+        android:layout_toStartOf="@id/t5"
+        android:background="#673AB7"
+        android:gravity="center"
+        android:text="Left of Center"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/t11"
+        android:layout_width="55sp"
+        android:layout_height="55sp"
+        android:layout_alignParentBottom="true"
+        android:background="#E91E63"
+        android:gravity="center"
+        android:text="Bottom Left"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/t12"
+        android:layout_width="55sp"
+        android:layout_height="55sp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:background="#FFC107"
+        android:gravity="center"
+        android:text="Bottom Center"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/t13"
+        android:layout_width="55sp"
+        android:layout_height="55sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:background="#3F51B5"
+        android:gravity="center"
+        android:text="Bottom Right"
+        android:textColor="@color/white" />
+</RelativeLayout>

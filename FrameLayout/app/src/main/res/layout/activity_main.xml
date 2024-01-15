@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="50sp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="362dp"
+        android:layout_height="397dp"
+        android:background="#313638"
+        android:padding="10dp"
+        android:text="1"
+        android:textAlignment="viewEnd"
+        android:textColor="@color/white"
+        android:textSize="25dp" />
+
+    <TextView
+        android:layout_width="319dp"
+        android:layout_height="340dp"
+        android:background="#F09D51"
+        android:padding="10dp"
+        android:text="2"
+        android:textAlignment="viewEnd"
+        android:textColor="@color/white"
+        android:textSize="25dp" />
+
+    <TextView
+        android:layout_width="266dp"
+        android:layout_height="300dp"
+        android:background="#F06543"
+        android:padding="10dp"
+        android:text="3"
+        android:textAlignment="viewEnd"
+        android:textColor="@color/white"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/f4"
+        android:layout_width="220dp"
+        android:layout_height="250dp"
+        android:background="#E0DFD5"
+        android:padding="10dp"
+        android:text="4"
+        android:textAlignment="viewEnd"
+        android:textColor="#515151"
+        android:textSize="25dp" />
+
+    <TextView
+        android:layout_width="171dp"
+        android:layout_height="212dp"
+        android:background="#E8E9EB"
+        android:padding="10dp"
+        android:text="5"
+        android:textAlignment="viewEnd"
+        android:textColor="#515151"
+        android:textSize="25dp" />
+
+</FrameLayout>
