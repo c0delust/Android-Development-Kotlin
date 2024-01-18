@@ -9,8 +9,9 @@
 🔹[Constraint Layout](https://github.com/c0delust/Android-Development-Kotlin/tree/main/ConstraintLayout) <br> 
 
 ### Views: 
-🔹[AutoCompleteTextView](https://github.com/c0delust/Android-Development-Kotlin/tree/main/AutoCompleteTextView) <br> 
-🔹[DatePicker](https://github.com/c0delust/Android-Development-Kotlin/tree/main/DatePicker) <br> 
+🔹[AutoComplete Text View](https://github.com/c0delust/Android-Development-Kotlin/tree/main/AutoCompleteTextView) <br> 
+🔹[Date Picker](https://github.com/c0delust/Android-Development-Kotlin/tree/main/DatePicker) <br> 
+🔹[Grid View](https://github.com/c0delust/Android-Development-Kotlin/tree/main/GridView) <br> 
 
 ### Dialogs:
-🔹[DatePickerDialog](https://github.com/c0delust/Android-Development-Kotlin/tree/main/DatePickerDialog) <br> 
+🔹[Date Picker Dialog](https://github.com/c0delust/Android-Development-Kotlin/tree/main/DatePickerDialog) <br> 
