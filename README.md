@@ -2,7 +2,7 @@
 
 ### Layouts:
 
-🔹 [Linear Layout](https://github.com/c0delust/Android-Development-Kotlin/tree/main/LinearLayout) <br>
+🔹[Linear Layout](https://github.com/c0delust/Android-Development-Kotlin/tree/main/LinearLayout) <br>
 🔹[Relative Layout](https://github.com/c0delust/Android-Development-Kotlin/tree/main/RelativeLayout) <br>
 🔹[Frame Layout](https://github.com/c0delust/Android-Development-Kotlin/tree/main/FrameLayout) <br>
 🔹[Table Layout](https://github.com/c0delust/Android-Development-Kotlin/tree/main/TableLayout) <br>
