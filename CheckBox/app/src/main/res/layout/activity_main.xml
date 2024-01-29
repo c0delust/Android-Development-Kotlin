@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pizza Toppings"
+        android:textSize="24sp"
+
+        android:layout_marginTop="16dp"/>
+
+    <CheckBox
+        android:id="@+id/cheeseCheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cheese"
+        android:layout_below="@id/titleTextView"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp"/>
+
+    <CheckBox
+        android:id="@+id/pepperoniCheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pepperoni"
+        android:layout_below="@id/cheeseCheckBox"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp"/>
+
+    <CheckBox
+        android:id="@+id/mushroomCheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mushroom"
+        android:layout_below="@id/pepperoniCheckBox"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp"/>
+
+    <CheckBox
+        android:id="@+id/oliveCheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Olive"
+        android:layout_below="@id/mushroomCheckBox"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp"/>
+
+    <CheckBox
+        android:id="@+id/onionCheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Onion"
+        android:layout_below="@id/oliveCheckBox"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp"/>
+
+</RelativeLayout>
