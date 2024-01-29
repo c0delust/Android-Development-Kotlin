@@ -12,6 +12,9 @@
 🔹[AutoComplete Text View](https://github.com/c0delust/Android-Development-Kotlin/tree/main/AutoCompleteTextView) <br> 
 🔹[Date Picker](https://github.com/c0delust/Android-Development-Kotlin/tree/main/DatePicker) <br> 
 🔹[Grid View](https://github.com/c0delust/Android-Development-Kotlin/tree/main/GridView) <br> 
+🔹[List View](https://github.com/c0delust/Android-Development-Kotlin/tree/main/ListView) <br> 
+🔹[Time Picker](https://github.com/c0delust/Android-Development-Kotlin/tree/main/TimePicker) <br> 
 
 ### Dialogs:
 🔹[Date Picker Dialog](https://github.com/c0delust/Android-Development-Kotlin/tree/main/DatePickerDialog) <br> 
+🔹[Time Picker Dialog](https://github.com/c0delust/Android-Development-Kotlin/tree/main/TimePickerDialog) <br> 
