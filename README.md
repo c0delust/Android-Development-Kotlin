@@ -17,3 +17,4 @@
 
 ### Dialogs:
 🔹[Date Picker Dialog](https://github.com/c0delust/Android-Development-Kotlin/tree/main/DatePickerDialog) <br> 
+🔹[Time Picker Dialog](https://github.com/c0delust/Android-Development-Kotlin/tree/main/TimePickerDialog) <br> 
